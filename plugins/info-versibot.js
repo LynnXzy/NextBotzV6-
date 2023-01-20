@@ -20,13 +20,13 @@ const message = {
                 {
                     urlButton: {
                         displayText: 'Beli Sc? Klik',
-                        url: 'https://wa.me/6282214729677'
+                        url: 'https://wa.me/60189830350'
                     }
                 },
                 {
                     urlButton: {
                         displayText: 'Ke IG GW',
-                        url: 'https://Instragram.com/l4c1f2r',
+                        url: 'https://Instragram.com/botzlynx',
                     }
                 },
             ]
@@ -34,13 +34,13 @@ const message = {
         conn.sendMessage(m.chat, message)
 conn.reply(m.chat, info, m, {
 contextInfo: { externalAdReply :{ showAdAttribution: true,
-                        sourceUrl: 'https://youtu.be/dTNrtQagzmc',
+                        sourceUrl: 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD',
                         mediaType: 2,
-                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ PutraModz ×፝֟͜×`,
+                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ Own-Lynn ×፝֟͜×`,
                         title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `⚘ ᴄʀᴇᴀᴛᴇ by ᴹᴿ᭄ PutraModz ×፝֟͜×`,          previewType: 0,
+                        body: `⚘ ᴄʀᴇᴀᴛᴇ by ᴹᴿ Own-Lynn ×፝֟͜×`,          previewType: 0,
                         thumbnail: await (await fetch(giflogo2)).buffer(),
-                        mediaUrl: 'https://youtu.be/dTNrtQagzmc'
+                        mediaUrl: 'https://youtube.com/channel/UC3Y7rHuI_OmbvFdL88JF7AQ'
                         
                       }}
 })
