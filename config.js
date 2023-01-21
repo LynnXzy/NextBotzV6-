@@ -126,14 +126,14 @@ global.thumb = 'https://telegra.ph/file/4149491a34cdd06cd6dd7.jpg' //Main Thumbn
 global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
 global.giflogo = 'https://ibb.co/3sJ0ybv'
 global.thumbbc = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //For broadcast
-global.giflogo = 'https://telegra.ph/file/e220e49e421810bbdef6a.mp4'
+global.giflogo = 'https://telegra.ph/file/8fff0684b8200ea04f859.jpg'
 global.giflogo2 = 'https://telegra.ph/file/4149491a34cdd06cd6dd7.jpg'
 global.thumbs = ['https://telegra.ph/file/7d80f81dd7c3ed1ff85a1.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.botintro = 'Hallo, Kenalin saya Lynn-Md Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.intro = 'https://telegra.ph/file/a7e7d0a0ca9495b89e4dd.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'Own-Lynn🔖'
 global.umurowner = '15📍'
