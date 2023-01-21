@@ -55,8 +55,6 @@ _Total Fitur:_ 570++
 *⫹⫺ PAYMENT:*
 • *Digi:*
 • *Maxis:*
-• *Ovo:*
-• *QRIS*
 • *ALL PAYMENT*
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
