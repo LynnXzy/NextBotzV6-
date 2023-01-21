@@ -11,26 +11,26 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
-• Owner berhak blockir tanpa alasan
-• Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
-• No Telp`
+• 𝑶𝒘𝒏𝒆𝒓 𝑻𝒊𝒅𝒂𝒌 𝑴𝒆𝒏𝒆𝒓𝒊𝒎𝒂 𝑺𝒂𝒗𝒆 𝑲𝒐𝒏𝒕𝒂𝒌
+• 𝑶𝒘𝒏𝒆𝒓 𝑩𝒆𝒓𝒉𝒂𝒌 𝑴𝒆𝒎𝑩𝒍𝒐𝒄𝒌 𝑻𝒂𝒏𝒑𝒂 𝑨𝒍𝒂𝒔𝒂𝒏
+• 𝑩𝒆𝒓𝒃𝒊𝒄𝒂𝒓𝒂𝒍𝒂𝒉 𝒀𝒂𝒏𝒈 𝑺𝒐𝒑𝒂𝒏 𝑫𝒂𝒏 𝑻𝒊𝒅𝒂𝒌 𝑺𝒑𝒂𝒎
+• 𝑶𝒘𝒏𝒆𝒓 𝑯𝒂𝒏𝒚𝒂 𝑴𝒆𝒎𝒃𝒂𝒍𝒂𝒔 𝑩𝒆𝒓𝒌𝒂𝒊𝒕𝒂𝒏 𝑩𝒐𝒕
+• 𝑵𝒐 𝑻𝒆𝒍𝒑`
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Own-Lynn
-${htjava} *✉️ Nama RL* : HAMBA ALLAH
-${htjava} *♂️ Gender* : ?
-${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : April 5 07 
-${htjava} *🎨 Umur* : 15
-${htjava} *🧮 Kelas* : 9 SMP?
-${htjava} *🧩 Hobby* : Turu,Anime,Futsal
-${htjava} *💬 Sifat* : Malaz 
-${htjava} *🗺️ Tinggal* : Malaysia,Sarawak,Kuching
-${htjava} *❤️ Waifu* : Vermiel?
+${htjava} *💌 𝐍𝐚𝐦𝐚* : Own-Lynn
+${htjava} *✉️ 𝐍𝐚𝐦𝐚 𝐑𝐋* : HAMBA ALLAH
+${htjava} *♂️ 𝐆𝐞𝐧𝐝𝐞𝐫* : ?
+${htjava} *🕋 𝐀𝐠𝐚𝐦𝐚* : Islam
+${htjava} *⏰ 𝐓𝐚𝐧𝐠𝐠𝐚𝐥 𝐋𝐚𝐡𝐢𝐫* : April 5 07 
+${htjava} *🎨 𝐔𝐦𝐮𝐫* : 15
+${htjava} *🧮 𝐊𝐞𝐥𝐚𝐳* : 9 SMP?
+${htjava} *🧩 𝐇𝐨𝐛𝐛𝐲* : Turu,Anime,Futsal
+${htjava} *💬 𝐒𝐢𝐟𝐚𝐭* : Malaz 
+${htjava} *🗺️ 𝐓𝐢𝐧𝐠𝐠𝐚𝐥* : Malaysia,Sarawak,Kuching
+${htjava} *❤️ 𝐖𝐚𝐢𝐟𝐮* : Vermiel?
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
